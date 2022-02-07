@@ -1,0 +1,50 @@
+
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+    margin: 0;
+}
+.gradient{
+    background: linear-gradient(90deg, rgba(85,236,224,1) 0%, rgba(70,108,252,0.9783263647255778) 0%, rgba(156,63,249,1) 100%, rgba(251,63,95,1) 100%);}
+
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.feature{
+    color: white;
+}
+
+.feature ul{
+    padding-left: 2rem;
+}
+
+.feature ul li{
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.icon{
+    color: white;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery{
+    background-color: whitesmoke;
+}
+
+.gallery img{
+    border-radius: 5%;
+    height: 100%;
+    
+}
